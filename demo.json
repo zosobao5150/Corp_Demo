@@ -6,16 +6,16 @@
         {
           "description": "Comprehensive business strategy presentation covering market analysis and competitive positioning for enterprise leadership teams",
           "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
-          "card": "https://via.placeholder.com/400x225/1a237e/ffffff?text=Executive+Strategy",
-          "background": "https://via.placeholder.com/1920x1080/0d47a1/ffffff?text=Executive+Suite",
+          "card": "https://via.placeholder.com/400x225/1a237e/ffffff?text=📊+Strategy+Meeting",
+          "background": "https://via.placeholder.com/1920x1080/0d47a1/ffffff?text=📈+Executive+Boardroom",
           "title": "Executive Strategy Session - Market Analysis & Planning",
           "studio": "Executive Leadership Team"
         },
         {
           "description": "Leadership development workshop focusing on organizational change management and team performance optimization",
           "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
-          "card": "https://via.placeholder.com/400x225/2e7d32/ffffff?text=Leadership+Workshop",
-          "background": "https://via.placeholder.com/1920x1080/1b5e20/ffffff?text=Leadership+Center",
+          "card": "https://via.placeholder.com/400x225/2e7d32/ffffff?text=👥+Leadership+Team",
+          "background": "https://via.placeholder.com/1920x1080/1b5e20/ffffff?text=🎯+Development+Center",
           "title": "Leadership Development - Change Management Workshop",
           "studio": "Executive Development Institute"
         }
@@ -27,24 +27,24 @@
         {
           "description": "Open source technology trends analysis and emerging market opportunities in the digital transformation space",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
-          "card": "https://via.placeholder.com/400x225/d32f2f/ffffff?text=Tech+Analysis",
-          "background": "https://via.placeholder.com/1920x1080/c62828/ffffff?text=Research+Lab",
+          "card": "https://via.placeholder.com/400x225/d32f2f/ffffff?text=🔬+Tech+Research",
+          "background": "https://via.placeholder.com/1920x1080/c62828/ffffff?text=💡+Innovation+Lab",
           "title": "Digital Transformation Trends - Technology Market Analysis",
           "studio": "Open Source Research"
         },
         {
           "description": "Comprehensive market research methodology and competitive landscape assessment for enterprise software",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
-          "card": "https://via.placeholder.com/400x225/7b1fa2/ffffff?text=Market+Research",
-          "background": "https://via.placeholder.com/1920x1080/6a1b9a/ffffff?text=Analytics+Center",
+          "card": "https://via.placeholder.com/400x225/7b1fa2/ffffff?text=📈+Market+Data",
+          "background": "https://via.placeholder.com/1920x1080/6a1b9a/ffffff?text=📊+Analytics+Hub",
           "title": "Enterprise Market Research - Competitive Intelligence Methods",
           "studio": "Blender Foundation Research"
         },
         {
           "description": "Consumer behavior analysis and data-driven insights for product development and strategic planning",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
-          "card": "https://via.placeholder.com/400x225/f57c00/ffffff?text=Consumer+Analytics",
-          "background": "https://via.placeholder.com/1920x1080/ef6c00/ffffff?text=Data+Science",
+          "card": "https://via.placeholder.com/400x225/f57c00/ffffff?text=👥+Customer+Insights",
+          "background": "https://via.placeholder.com/1920x1080/ef6c00/ffffff?text=🎯+Behavioral+Science",
           "title": "Consumer Behavior Analytics - Data-Driven Market Insights",
           "studio": "Open Data Initiative"
         }
@@ -56,24 +56,24 @@
         {
           "description": "Enterprise platform demonstration showcasing integration capabilities and user experience design",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
-          "card": "https://via.placeholder.com/400x225/00796b/ffffff?text=Platform+Demo",
-          "background": "https://via.placeholder.com/1920x1080/00695c/ffffff?text=Product+Studio",
+          "card": "https://via.placeholder.com/400x225/00796b/ffffff?text=💻+Platform+Demo",
+          "background": "https://via.placeholder.com/1920x1080/00695c/ffffff?text=🖥️+Demo+Theater",
           "title": "Enterprise Platform Demo - Integration & User Experience",
           "studio": "Google Cloud Samples"
         },
         {
           "description": "Mobile application showcase demonstrating responsive design and cross-platform functionality",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
-          "card": "https://via.placeholder.com/400x225/5d4037/ffffff?text=Mobile+Demo",
-          "background": "https://via.placeholder.com/1920x1080/4e342e/ffffff?text=Mobile+Lab",
+          "card": "https://via.placeholder.com/400x225/5d4037/ffffff?text=📱+Mobile+App",
+          "background": "https://via.placeholder.com/1920x1080/4e342e/ffffff?text=📲+Mobile+Studio",
           "title": "Mobile Application Demo - Cross-Platform Development",
           "studio": "Mobile Innovation Lab"
         },
         {
           "description": "API integration demonstration showing seamless connectivity with popular business applications",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
-          "card": "https://via.placeholder.com/400x225/455a64/ffffff?text=API+Integration",
-          "background": "https://via.placeholder.com/1920x1080/37474f/ffffff?text=Integration+Hub",
+          "card": "https://via.placeholder.com/400x225/455a64/ffffff?text=🔗+API+Connect",
+          "background": "https://via.placeholder.com/1920x1080/37474f/ffffff?text=⚡+Integration+Center",
           "title": "API Integration Suite - Third-Party Connectivity Solutions",
           "studio": "Technical Architecture Team"
         }
@@ -85,24 +85,24 @@
         {
           "description": "Comprehensive employee onboarding program covering company culture, policies, and professional development",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
-          "card": "https://via.placeholder.com/400x225/3f51b5/ffffff?text=Onboarding",
-          "background": "https://via.placeholder.com/1920x1080/303f9f/ffffff?text=Training+Center",
+          "card": "https://via.placeholder.com/400x225/3f51b5/ffffff?text=🎓+New+Hire+Welcome",
+          "background": "https://via.placeholder.com/1920x1080/303f9f/ffffff?text=🏢+Orientation+Hall",
           "title": "Employee Onboarding - Culture & Professional Development",
           "studio": "Human Resources Development"
         },
         {
           "description": "Advanced sales methodology training focusing on consultative selling and client relationship management",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
-          "card": "https://via.placeholder.com/400x225/e91e63/ffffff?text=Sales+Training",
-          "background": "https://via.placeholder.com/1920x1080/c2185b/ffffff?text=Sales+Academy",
+          "card": "https://via.placeholder.com/400x225/e91e63/ffffff?text=💼+Sales+Mastery",
+          "background": "https://via.placeholder.com/1920x1080/c2185b/ffffff?text=🎯+Sales+Training+Room",
           "title": "Advanced Sales Training - Consultative Selling Strategies",
           "studio": "Sales Enablement Academy"
         },
         {
           "description": "Information security awareness training covering data protection, threat prevention, and compliance protocols",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
-          "card": "https://via.placeholder.com/400x225/ff5722/ffffff?text=Security+Training",
-          "background": "https://via.placeholder.com/1920x1080/e64a19/ffffff?text=Security+Operations",
+          "card": "https://via.placeholder.com/400x225/ff5722/ffffff?text=🔒+Cyber+Security",
+          "background": "https://via.placeholder.com/1920x1080/e64a19/ffffff?text=🛡️+Security+Command",
           "title": "Cybersecurity Awareness - Data Protection & Threat Prevention",
           "studio": "Information Security Division"
         }
@@ -114,16 +114,16 @@
         {
           "description": "Enterprise client success story showcasing digital transformation implementation and measurable ROI",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
-          "card": "https://via.placeholder.com/400x225/4caf50/ffffff?text=Success+Story",
-          "background": "https://via.placeholder.com/1920x1080/388e3c/ffffff?text=Client+Success",
+          "card": "https://via.placeholder.com/400x225/4caf50/ffffff?text=✅+Success+Story",
+          "background": "https://via.placeholder.com/1920x1080/388e3c/ffffff?text=🏆+Achievement+Center",
           "title": "Enterprise Digital Transformation - ROI Success Story",
           "studio": "Customer Success Team"
         },
         {
           "description": "Mid-market implementation case study highlighting rapid deployment and operational efficiency gains",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
-          "card": "https://via.placeholder.com/400x225/9c27b0/ffffff?text=Case+Study",
-          "background": "https://via.placeholder.com/1920x1080/8bc34a/ffffff?text=Implementation",
+          "card": "https://via.placeholder.com/400x225/9c27b0/ffffff?text=📋+Case+Study",
+          "background": "https://via.placeholder.com/1920x1080/8bc34a/ffffff?text=📊+Results+Dashboard",
           "title": "Mid-Market Implementation - Efficiency & Performance Gains",
           "studio": "Account Management"
         }
@@ -135,16 +135,16 @@
         {
           "description": "System architecture overview covering scalability, performance optimization, and security best practices",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
-          "card": "https://via.placeholder.com/400x225/607d8b/ffffff?text=Architecture",
-          "background": "https://via.placeholder.com/1920x1080/546e7a/ffffff?text=Technical+Docs",
+          "card": "https://via.placeholder.com/400x225/607d8b/ffffff?text=🏗️+System+Architecture",
+          "background": "https://via.placeholder.com/1920x1080/546e7a/ffffff?text=⚙️+Engineering+Docs",
           "title": "System Architecture - Scalability & Performance Optimization",
           "studio": "Engineering Documentation"
         },
         {
           "description": "Database administration best practices including backup strategies, performance tuning, and security protocols",
           "sources": ["https://archive.org/download/OAHS_Guidance_Videos_-_Business_department_2023/OAHS%20Guidance%20Videos%20-%20Business%20department%202023.mp4"],
-          "card": "https://via.placeholder.com/400x225/795548/ffffff?text=Database+Admin",
-          "background": "https://via.placeholder.com/1920x1080/6d4c41/ffffff?text=Data+Management",
+          "card": "https://via.placeholder.com/400x225/795548/ffffff?text=🗄️+Database+Admin",
+          "background": "https://via.placeholder.com/1920x1080/6d4c41/ffffff?text=💾+Data+Operations",
           "title": "Database Administration - Security & Performance Best Practices",
           "studio": "Database Administration Team"
         }
@@ -156,16 +156,16 @@
         {
           "description": "Live product roadmap presentation with interactive Q&A session for partners and enterprise customers",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
-          "card": "https://via.placeholder.com/400x225/ff9800/ffffff?text=Live+Roadmap",
-          "background": "https://via.placeholder.com/1920x1080/f57c00/ffffff?text=Webinar+Studio",
+          "card": "https://via.placeholder.com/400x225/ff9800/ffffff?text=🎥+Live+Roadmap",
+          "background": "https://via.placeholder.com/1920x1080/f57c00/ffffff?text=📺+Broadcast+Studio",
           "title": "Product Roadmap 2025 - Interactive Partner & Customer Session",
           "studio": "Product Marketing Live"
         },
         {
           "description": "Industry trends panel discussion featuring thought leaders and subject matter experts on future technology",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
-          "card": "https://via.placeholder.com/400x225/009688/ffffff?text=Industry+Panel",
-          "background": "https://via.placeholder.com/1920x1080/00796b/ffffff?text=Panel+Discussion",
+          "card": "https://via.placeholder.com/400x225/009688/ffffff?text=🎙️+Industry+Panel",
+          "background": "https://via.placeholder.com/1920x1080/00796b/ffffff?text=🎬+Panel+Studio",
           "title": "Future of Enterprise Technology - Expert Panel Discussion",
           "studio": "Thought Leadership Forum"
         }
@@ -177,16 +177,16 @@
         {
           "description": "Annual compliance training covering regulatory requirements, reporting obligations, and risk management",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
-          "card": "https://via.placeholder.com/400x225/424242/ffffff?text=Compliance",
-          "background": "https://via.placeholder.com/1920x1080/212121/ffffff?text=Legal+Department",
+          "card": "https://via.placeholder.com/400x225/424242/ffffff?text=⚖️+Compliance+2025",
+          "background": "https://via.placeholder.com/1920x1080/212121/ffffff?text=🏛️+Legal+Division",
           "title": "2025 Compliance Training - Regulatory Requirements & Risk Management",
           "studio": "Legal & Compliance Division"
         },
         {
           "description": "Data privacy and GDPR compliance guidelines for international operations and customer data handling",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
-          "card": "https://via.placeholder.com/400x225/8bc34a/ffffff?text=Data+Privacy",
-          "background": "https://via.placeholder.com/1920x1080/689f38/ffffff?text=Privacy+Office",
+          "card": "https://via.placeholder.com/400x225/8bc34a/ffffff?text=🔐+GDPR+Privacy",
+          "background": "https://via.placeholder.com/1920x1080/689f38/ffffff?text=🛡️+Privacy+Control",
           "title": "GDPR & Data Privacy - International Compliance Guidelines",
           "studio": "Privacy & Data Protection Office"
         }
@@ -198,16 +198,16 @@
         {
           "description": "Annual company meeting highlights featuring strategic announcements and organizational direction updates",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
-          "card": "https://via.placeholder.com/400x225/9e9e9e/ffffff?text=Annual+Meeting",
-          "background": "https://via.placeholder.com/1920x1080/757575/ffffff?text=Corporate+Archive",
+          "card": "https://via.placeholder.com/400x225/9e9e9e/ffffff?text=🏢+Annual+Meeting+2024",
+          "background": "https://via.placeholder.com/1920x1080/757575/ffffff?text=📁+Corporate+Archives",
           "title": "2024 Annual Meeting - Strategic Highlights & Future Direction",
           "studio": "Corporate Communications Archive"
         },
         {
           "description": "Historical product launch presentation showcasing the evolution of our enterprise platform solutions",
           "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
-          "card": "https://via.placeholder.com/400x225/78909c/ffffff?text=Product+Launch",
-          "background": "https://via.placeholder.com/1920x1080/607d8b/ffffff?text=Launch+Archive",
+          "card": "https://via.placeholder.com/400x225/78909c/ffffff?text=🚀+Product+Launch+History",
+          "background": "https://via.placeholder.com/1920x1080/607d8b/ffffff?text=📜+Launch+Archives",
           "title": "Platform Evolution - Historical Product Development Journey",
           "studio": "Product History Archive"
         }
