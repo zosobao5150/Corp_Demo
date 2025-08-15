@@ -4,20 +4,20 @@
       "category": "Executive Briefings",
       "videos": [
         {
-          "description": "Chris Argyris discusses organizational learning and leadership development from Harvard Business School",
-          "sources": ["https://archive.org/download/argyris_chris_org_learning/argyris_chris_org_learning.mp4"],
-          "card": "https://via.placeholder.com/400x225/1a237e/ffffff?text=Organizational+Learning",
-          "background": "https://via.placeholder.com/1920x1080/0d47a1/ffffff?text=Harvard+Business",
-          "title": "Organizational Learning - Chris Argyris Harvard Lecture",
-          "studio": "Harvard Business School Archive"
+          "description": "Comprehensive business strategy presentation covering market analysis and competitive positioning for enterprise leadership teams",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
+          "card": "https://via.placeholder.com/400x225/1a237e/ffffff?text=Executive+Strategy",
+          "background": "https://via.placeholder.com/1920x1080/0d47a1/ffffff?text=Executive+Suite",
+          "title": "Executive Strategy Session - Market Analysis & Planning",
+          "studio": "Executive Leadership Team"
         },
         {
-          "description": "Leadership training session demonstrating effective management techniques and team building strategies",
-          "sources": ["https://archive.org/download/smartData-Enterprises-Leadership-Training/smartData-Enterprises-Leadership-Training.mp4"],
-          "card": "https://via.placeholder.com/400x225/2e7d32/ffffff?text=Leadership+Training",
-          "background": "https://via.placeholder.com/1920x1080/1b5e20/ffffff?text=Executive+Training",
-          "title": "Executive Leadership Training - Team Development Strategies",
-          "studio": "SmartData Enterprises"
+          "description": "Leadership development workshop focusing on organizational change management and team performance optimization",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
+          "card": "https://via.placeholder.com/400x225/2e7d32/ffffff?text=Leadership+Workshop",
+          "background": "https://via.placeholder.com/1920x1080/1b5e20/ffffff?text=Leadership+Center",
+          "title": "Leadership Development - Change Management Workshop",
+          "studio": "Executive Development Institute"
         }
       ]
     },
