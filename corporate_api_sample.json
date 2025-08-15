@@ -1,0 +1,215 @@
+[
+  {
+    "category": "Executive Briefings",
+    "videos": [
+      {
+        "description": "CEO quarterly update covering strategic initiatives, market performance, and organizational changes for Q1 2025",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_5mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/1a237e/ffffff?text=CEO+Update",
+        "background": "https://via.placeholder.com/1920x1080/0d47a1/ffffff?text=Executive+Suite",
+        "title": "CEO Quarterly Update - Q1 2025 Strategic Review",
+        "studio": "Executive Office"
+      },
+      {
+        "description": "CFO presentation on financial performance, budget allocations, and investment priorities for the upcoming fiscal year",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_7mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/2e7d32/ffffff?text=Financial+Review",
+        "background": "https://via.placeholder.com/1920x1080/1b5e20/ffffff?text=Finance+Dept",
+        "title": "Financial Performance Review & FY2025 Budget Planning",
+        "studio": "Finance Department"
+      }
+    ]
+  },
+  {
+    "category": "Research & Market Intelligence",
+    "videos": [
+      {
+        "description": "Comprehensive analysis of emerging technologies and their potential impact on our industry vertical",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/d32f2f/ffffff?text=Tech+Trends",
+        "background": "https://via.placeholder.com/1920x1080/c62828/ffffff?text=Research+Lab",
+        "title": "Emerging Technology Trends Analysis - AI & Automation",
+        "studio": "Research & Development"
+      },
+      {
+        "description": "Detailed competitive landscape analysis including market positioning, pricing strategies, and competitive advantages",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/7b1fa2/ffffff?text=Market+Analysis",
+        "background": "https://via.placeholder.com/1920x1080/6a1b9a/ffffff?text=Strategy+Room",
+        "title": "Competitive Landscape Assessment - Enterprise Software Market",
+        "studio": "Strategy & Planning"
+      },
+      {
+        "description": "Consumer behavior insights and market trends affecting product development and marketing strategies",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_3mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/f57c00/ffffff?text=Consumer+Insights",
+        "background": "https://via.placeholder.com/1920x1080/ef6c00/ffffff?text=Analytics+Center",
+        "title": "Consumer Behavior Analysis - Digital Transformation Impact",
+        "studio": "Market Research"
+      }
+    ]
+  },
+  {
+    "category": "Product Demonstrations",
+    "videos": [
+      {
+        "description": "Complete walkthrough of our flagship enterprise platform including new features and integration capabilities",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_5mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/00796b/ffffff?text=Platform+Demo",
+        "background": "https://via.placeholder.com/1920x1080/00695c/ffffff?text=Product+Studio",
+        "title": "Enterprise Platform v3.5 - Feature Overview & Demo",
+        "studio": "Product Management"
+      },
+      {
+        "description": "Mobile application demonstration showcasing user interface improvements and new functionality for field teams",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/5d4037/ffffff?text=Mobile+App",
+        "background": "https://via.placeholder.com/1920x1080/4e342e/ffffff?text=Mobile+Lab",
+        "title": "Mobile App 2.0 - Enhanced Field Operations Experience",
+        "studio": "Mobile Development"
+      },
+      {
+        "description": "API integration showcase demonstrating seamless connectivity with popular third-party business applications",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/455a64/ffffff?text=API+Integration",
+        "background": "https://via.placeholder.com/1920x1080/37474f/ffffff?text=Integration+Hub",
+        "title": "API Integration Suite - Third-Party Connectivity Demo",
+        "studio": "Technical Architecture"
+      }
+    ]
+  },
+  {
+    "category": "Training & Development",
+    "videos": [
+      {
+        "description": "Comprehensive onboarding program for new employees covering company culture, policies, and initial training modules",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_3mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/3f51b5/ffffff?text=New+Employee",
+        "background": "https://via.placeholder.com/1920x1080/303f9f/ffffff?text=Training+Center",
+        "title": "New Employee Onboarding - Welcome to the Company",
+        "studio": "Human Resources"
+      },
+      {
+        "description": "Advanced sales methodology training focusing on consultative selling and enterprise client relationship management",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_7mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/e91e63/ffffff?text=Sales+Training",
+        "background": "https://via.placeholder.com/1920x1080/c2185b/ffffff?text=Sales+Academy",
+        "title": "Advanced Sales Methodology - Enterprise Client Strategies",
+        "studio": "Sales Enablement"
+      },
+      {
+        "description": "Information security awareness training covering data protection, phishing prevention, and compliance requirements",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/ff5722/ffffff?text=Security+Training",
+        "background": "https://via.placeholder.com/1920x1080/e64a19/ffffff?text=Security+Ops",
+        "title": "Cybersecurity Awareness - Data Protection Best Practices",
+        "studio": "Information Security"
+      }
+    ]
+  },
+  {
+    "category": "Customer Success Stories",
+    "videos": [
+      {
+        "description": "Fortune 500 client testimonial showcasing implementation success and measurable business outcomes achieved",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_5mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/4caf50/ffffff?text=Client+Success",
+        "background": "https://via.placeholder.com/1920x1080/388e3c/ffffff?text=Client+Lounge",
+        "title": "GlobalTech Industries - Digital Transformation Success Story",
+        "studio": "Customer Success"
+      },
+      {
+        "description": "Mid-market company case study highlighting rapid implementation and significant efficiency improvements",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/9c27b0/ffffff?text=Case+Study",
+        "background": "https://via.placeholder.com/1920x1080/8bc34a/ffffff?text=Success+Stories",
+        "title": "Regional Manufacturing Co. - Process Optimization Results",
+        "studio": "Account Management"
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation",
+    "videos": [
+      {
+        "description": "System architecture overview covering infrastructure design, scalability considerations, and deployment strategies",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_3mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/607d8b/ffffff?text=Architecture",
+        "background": "https://via.placeholder.com/1920x1080/546e7a/ffffff?text=Tech+Docs",
+        "title": "System Architecture Overview - Scalability & Performance",
+        "studio": "Engineering"
+      },
+      {
+        "description": "Database administration best practices including backup procedures, performance optimization, and security protocols",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_7mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/795548/ffffff?text=Database+Admin",
+        "background": "https://via.placeholder.com/1920x1080/6d4c41/ffffff?text=Data+Center",
+        "title": "Database Administration - Best Practices & Security",
+        "studio": "Database Team"
+      }
+    ]
+  },
+  {
+    "category": "Live Webinars",
+    "videos": [
+      {
+        "description": "Live quarterly product roadmap presentation with Q&A session for partners and key customers",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/ff9800/ffffff?text=Live+Roadmap",
+        "background": "https://via.placeholder.com/1920x1080/f57c00/ffffff?text=Webinar+Studio",
+        "title": "Q2 2025 Product Roadmap - Partner & Customer Preview",
+        "studio": "Product Marketing"
+      },
+      {
+        "description": "Interactive industry trends discussion with external thought leaders and internal subject matter experts",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_5mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/009688/ffffff?text=Industry+Panel",
+        "background": "https://via.placeholder.com/1920x1080/00796b/ffffff?text=Panel+Discussion",
+        "title": "Industry Trends Panel - Future of Enterprise Technology",
+        "studio": "Thought Leadership"
+      }
+    ]
+  },
+  {
+    "category": "Compliance & Legal",
+    "videos": [
+      {
+        "description": "Annual compliance training covering regulatory requirements, reporting obligations, and risk management protocols",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/424242/ffffff?text=Compliance",
+        "background": "https://via.placeholder.com/1920x1080/212121/ffffff?text=Legal+Dept",
+        "title": "2025 Compliance Training - Regulatory Updates & Requirements",
+        "studio": "Legal & Compliance"
+      },
+      {
+        "description": "Data privacy and GDPR compliance guidelines for international operations and customer data handling",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_3mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/8bc34a/ffffff?text=Data+Privacy",
+        "background": "https://via.placeholder.com/1920x1080/689f38/ffffff?text=Privacy+Office",
+        "title": "GDPR & Data Privacy - International Compliance Guidelines",
+        "studio": "Privacy Office"
+      }
+    ]
+  },
+  {
+    "category": "Archived Sessions",
+    "videos": [
+      {
+        "description": "Previous year's annual meeting highlights including major announcements and strategic direction updates",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_7mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/9e9e9e/ffffff?text=Annual+Meeting",
+        "background": "https://via.placeholder.com/1920x1080/757575/ffffff?text=Archive+Vault",
+        "title": "2024 Annual Company Meeting - Strategic Highlights",
+        "studio": "Corporate Communications"
+      },
+      {
+        "description": "Historical product launch presentation showcasing the introduction of our current flagship solution",
+        "sources": ["https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4"],
+        "card": "https://via.placeholder.com/400x225/78909c/ffffff?text=Product+Launch",
+        "background": "https://via.placeholder.com/1920x1080/607d8b/ffffff?text=Launch+Event",
+        "title": "Enterprise Platform 3.0 Launch - Original Presentation",
+        "studio": "Product History"
+      }
+    ]
+  }
+]
