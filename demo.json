@@ -5,7 +5,7 @@
       "videos": [
         {
           "description": "Comprehensive business strategy presentation covering market analysis and competitive positioning for enterprise leadership teams",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
           "card": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1920&h=1080&fit=crop",
           "title": "Executive Strategy Session - Market Analysis & Planning",
@@ -13,7 +13,7 @@
         },
         {
           "description": "Leadership development workshop focusing on organizational change management and team performance optimization",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
           "card": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1920&h=1080&fit=crop",
           "title": "Leadership Development - Change Management Workshop",
@@ -21,7 +21,7 @@
         },
         {
           "description": "CEO quarterly address highlighting company achievements, financial performance, and strategic priorities for upcoming quarter",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
           "card": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1920&h=1080&fit=crop",
           "title": "CEO Quarterly Address - Q1 2025 Performance Review",
@@ -29,7 +29,7 @@
         },
         {
           "description": "Board of directors meeting summary covering governance updates, risk management, and shareholder value initiatives",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
           "card": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1920&h=1080&fit=crop",
           "title": "Board Meeting Highlights - Governance & Strategic Oversight",
@@ -42,7 +42,7 @@
       "videos": [
         {
           "description": "Open source technology trends analysis and emerging market opportunities in the digital transformation space",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
           "card": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1920&h=1080&fit=crop",
           "title": "Digital Transformation Trends - Technology Market Analysis",
@@ -50,7 +50,7 @@
         },
         {
           "description": "Comprehensive market research methodology and competitive landscape assessment for enterprise software",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
           "card": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop",
           "title": "Enterprise Market Research - Competitive Intelligence",
@@ -58,7 +58,7 @@
         },
         {
           "description": "Consumer behavior analysis and data-driven insights for product development and strategic planning",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
           "card": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&h=1080&fit=crop",
           "title": "Consumer Behavior Analytics - Market Insights",
@@ -71,7 +71,7 @@
       "videos": [
         {
           "description": "Enterprise platform demonstration showcasing integration capabilities and user experience design",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
           "card": "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=1920&h=1080&fit=crop",
           "title": "Enterprise Platform Demo - Integration & UX",
@@ -79,7 +79,7 @@
         },
         {
           "description": "Mobile application showcase demonstrating responsive design and cross-platform functionality",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
           "card": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1920&h=1080&fit=crop",
           "title": "Mobile Application Demo - Cross-Platform",
@@ -87,7 +87,7 @@
         },
         {
           "description": "API integration demonstration showing seamless connectivity with popular business applications",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
           "card": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&h=1080&fit=crop",
           "title": "API Integration Suite - Third-Party Connectivity",
@@ -100,7 +100,7 @@
       "videos": [
         {
           "description": "Comprehensive employee onboarding program covering company culture, policies, and professional development",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
           "card": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1920&h=1080&fit=crop",
           "title": "Employee Onboarding - Culture & Development",
@@ -108,7 +108,7 @@
         },
         {
           "description": "Advanced sales methodology training focusing on consultative selling and client relationship management",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
           "card": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1920&h=1080&fit=crop",
           "title": "Advanced Sales Training - Consultative Selling",
@@ -116,7 +116,7 @@
         },
         {
           "description": "Information security awareness training covering data protection, threat prevention, and compliance protocols",
-          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
+          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
           "card": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1920&h=1080&fit=crop",
           "title": "Cybersecurity Awareness - Data Protection",
