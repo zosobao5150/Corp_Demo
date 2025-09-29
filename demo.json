@@ -18,6 +18,22 @@
           "background": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1920&h=1080&fit=crop",
           "title": "Leadership Development - Change Management Workshop",
           "studio": "Executive Development Institute"
+        },
+        {
+          "description": "CEO quarterly address highlighting company achievements, financial performance, and strategic priorities for upcoming quarter",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "card": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1920&h=1080&fit=crop",
+          "title": "CEO Quarterly Address - Q1 2025 Performance Review",
+          "studio": "Office of the CEO"
+        },
+        {
+          "description": "Board of directors meeting summary covering governance updates, risk management, and shareholder value initiatives",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "card": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1920&h=1080&fit=crop",
+          "title": "Board Meeting Highlights - Governance & Strategic Oversight",
+          "studio": "Board of Directors"
         }
       ]
     },
@@ -26,7 +42,7 @@
       "videos": [
         {
           "description": "Open source technology trends analysis and emerging market opportunities in the digital transformation space",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
           "card": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1920&h=1080&fit=crop",
           "title": "Digital Transformation Trends - Technology Market Analysis",
@@ -34,7 +50,7 @@
         },
         {
           "description": "Comprehensive market research methodology and competitive landscape assessment for enterprise software",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
           "card": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop",
           "title": "Enterprise Market Research - Competitive Intelligence Methods",
@@ -42,11 +58,27 @@
         },
         {
           "description": "Consumer behavior analysis and data-driven insights for product development and strategic planning",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
           "card": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&h=1080&fit=crop",
           "title": "Consumer Behavior Analytics - Data-Driven Market Insights",
           "studio": "Open Data Initiative"
+        },
+        {
+          "description": "Industry benchmarking report comparing performance metrics across key competitors and market leaders",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+          "card": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=1920&h=1080&fit=crop",
+          "title": "Industry Benchmarking - Competitive Performance Analysis",
+          "studio": "Market Intelligence Division"
+        },
+        {
+          "description": "Global market expansion opportunities analysis covering emerging markets and growth potential regions",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
+          "card": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=1920&h=1080&fit=crop",
+          "title": "Global Market Expansion - Emerging Opportunities Analysis",
+          "studio": "International Strategy Group"
         }
       ]
     },
@@ -55,7 +87,7 @@
       "videos": [
         {
           "description": "Enterprise platform demonstration showcasing integration capabilities and user experience design",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
           "card": "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=1920&h=1080&fit=crop",
           "title": "Enterprise Platform Demo - Integration & User Experience",
@@ -63,7 +95,7 @@
         },
         {
           "description": "Mobile application showcase demonstrating responsive design and cross-platform functionality",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
           "card": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1920&h=1080&fit=crop",
           "title": "Mobile Application Demo - Cross-Platform Development",
@@ -71,11 +103,27 @@
         },
         {
           "description": "API integration demonstration showing seamless connectivity with popular business applications",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
           "card": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&h=1080&fit=crop",
           "title": "API Integration Suite - Third-Party Connectivity Solutions",
           "studio": "Technical Architecture Team"
+        },
+        {
+          "description": "Dashboard and analytics demonstration highlighting real-time reporting and business intelligence features",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "card": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&h=1080&fit=crop",
+          "title": "Analytics Dashboard - Real-Time Business Intelligence",
+          "studio": "Product Management"
+        },
+        {
+          "description": "Cloud infrastructure overview demonstrating scalability, security, and deployment capabilities",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "card": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&h=1080&fit=crop",
+          "title": "Cloud Infrastructure - Scalability & Security Overview",
+          "studio": "Cloud Operations"
         }
       ]
     },
@@ -84,7 +132,7 @@
       "videos": [
         {
           "description": "Comprehensive employee onboarding program covering company culture, policies, and professional development",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
           "card": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1920&h=1080&fit=crop",
           "title": "Employee Onboarding - Culture & Professional Development",
@@ -92,7 +140,7 @@
         },
         {
           "description": "Advanced sales methodology training focusing on consultative selling and client relationship management",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
           "card": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1920&h=1080&fit=crop",
           "title": "Advanced Sales Training - Consultative Selling Strategies",
@@ -100,11 +148,35 @@
         },
         {
           "description": "Information security awareness training covering data protection, threat prevention, and compliance protocols",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
           "card": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1920&h=1080&fit=crop",
           "title": "Cybersecurity Awareness - Data Protection & Threat Prevention",
           "studio": "Information Security Division"
+        },
+        {
+          "description": "Project management fundamentals covering agile methodologies, team coordination, and delivery excellence",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "card": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&h=1080&fit=crop",
+          "title": "Project Management Essentials - Agile Delivery Methods",
+          "studio": "PMO Training Center"
+        },
+        {
+          "description": "Customer service excellence training emphasizing communication skills and problem resolution techniques",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+          "card": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1920&h=1080&fit=crop",
+          "title": "Customer Service Excellence - Communication & Resolution",
+          "studio": "Customer Experience Team"
+        },
+        {
+          "description": "Diversity and inclusion workshop promoting equitable workplace practices and cultural awareness",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
+          "card": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1920&h=1080&fit=crop",
+          "title": "Diversity & Inclusion - Building Equitable Workplaces",
+          "studio": "DEI Initiative"
         }
       ]
     },
@@ -113,7 +185,7 @@
       "videos": [
         {
           "description": "Enterprise client success story showcasing digital transformation implementation and measurable ROI",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
           "card": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1920&h=1080&fit=crop",
           "title": "Enterprise Digital Transformation - ROI Success Story",
@@ -121,11 +193,27 @@
         },
         {
           "description": "Mid-market implementation case study highlighting rapid deployment and operational efficiency gains",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
           "card": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1920&h=1080&fit=crop",
           "title": "Mid-Market Implementation - Efficiency & Performance Gains",
           "studio": "Account Management"
+        },
+        {
+          "description": "Healthcare sector transformation demonstrating improved patient outcomes through technology adoption",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
+          "card": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1920&h=1080&fit=crop",
+          "title": "Healthcare Innovation - Patient Outcomes Transformation",
+          "studio": "Healthcare Solutions"
+        },
+        {
+          "description": "Financial services client testimonial on enhanced security, compliance, and customer experience improvements",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "card": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1920&h=1080&fit=crop",
+          "title": "Financial Services - Security & Compliance Excellence",
+          "studio": "Financial Services Division"
         }
       ]
     },
@@ -134,7 +222,7 @@
       "videos": [
         {
           "description": "System architecture overview covering scalability, performance optimization, and security best practices",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
           "card": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&h=1080&fit=crop",
           "title": "System Architecture - Scalability & Performance Optimization",
@@ -142,11 +230,27 @@
         },
         {
           "description": "Database administration best practices including backup strategies, performance tuning, and security protocols",
-          "sources": ["https://archive.org/download/OAHS_Guidance_Videos_-_Business_department_2023/OAHS%20Guidance%20Videos%20-%20Business%20department%202023.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
           "card": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&h=1080&fit=crop",
           "title": "Database Administration - Security & Performance Best Practices",
           "studio": "Database Administration Team"
+        },
+        {
+          "description": "DevOps pipeline configuration covering CI/CD processes, automation, and deployment strategies",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "card": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1920&h=1080&fit=crop",
+          "title": "DevOps Pipeline - CI/CD Automation & Deployment",
+          "studio": "DevOps Engineering"
+        },
+        {
+          "description": "API documentation walkthrough explaining endpoints, authentication methods, and integration patterns",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "card": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1920&h=1080&fit=crop",
+          "title": "API Documentation - Integration Patterns & Authentication",
+          "studio": "API Development Team"
         }
       ]
     },
@@ -155,7 +259,7 @@
       "videos": [
         {
           "description": "Live product roadmap presentation with interactive Q&A session for partners and enterprise customers",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
           "card": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1920&h=1080&fit=crop",
           "title": "Product Roadmap 2025 - Interactive Partner & Customer Session",
@@ -163,11 +267,19 @@
         },
         {
           "description": "Industry trends panel discussion featuring thought leaders and subject matter experts on future technology",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
           "card": "https://images.unsplash.com/photo-1515378791036-0648a814c963?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1515378791036-0648a814c963?w=1920&h=1080&fit=crop",
           "title": "Future of Enterprise Technology - Expert Panel Discussion",
           "studio": "Thought Leadership Forum"
+        },
+        {
+          "description": "Live technical workshop demonstrating advanced platform features and configuration techniques",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "card": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=1920&h=1080&fit=crop",
+          "title": "Advanced Technical Workshop - Platform Configuration",
+          "studio": "Technical Training Live"
         }
       ]
     },
@@ -176,7 +288,7 @@
       "videos": [
         {
           "description": "Annual compliance training covering regulatory requirements, reporting obligations, and risk management",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
           "card": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop",
           "title": "2025 Compliance Training - Regulatory Requirements & Risk Management",
@@ -184,11 +296,27 @@
         },
         {
           "description": "Data privacy and GDPR compliance guidelines for international operations and customer data handling",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
           "card": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1920&h=1080&fit=crop",
           "title": "GDPR & Data Privacy - International Compliance Guidelines",
           "studio": "Privacy & Data Protection Office"
+        },
+        {
+          "description": "Anti-corruption and ethics training covering code of conduct, conflict of interest, and reporting procedures",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
+          "card": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1920&h=1080&fit=crop",
+          "title": "Ethics & Anti-Corruption - Code of Conduct Training",
+          "studio": "Ethics & Compliance"
+        },
+        {
+          "description": "Financial regulations overview including SOX compliance, audit requirements, and internal controls",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
+          "card": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1920&h=1080&fit=crop",
+          "title": "Financial Compliance - SOX & Audit Requirements",
+          "studio": "Financial Compliance Team"
         }
       ]
     },
@@ -197,7 +325,7 @@
       "videos": [
         {
           "description": "Annual company meeting highlights featuring strategic announcements and organizational direction updates",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
           "card": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=1920&h=1080&fit=crop",
           "title": "2024 Annual Meeting - Strategic Highlights & Future Direction",
@@ -205,11 +333,270 @@
         },
         {
           "description": "Historical product launch presentation showcasing the evolution of our enterprise platform solutions",
-          "sources": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
           "card": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=225&fit=crop",
           "background": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&h=1080&fit=crop",
           "title": "Platform Evolution - Historical Product Development Journey",
           "studio": "Product History Archive"
+        },
+        {
+          "description": "Legacy training materials archive preserving institutional knowledge and historical best practices",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
+          "card": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=1920&h=1080&fit=crop",
+          "title": "Legacy Training Archive - Institutional Knowledge Repository",
+          "studio": "Learning & Development Archive"
+        }
+      ]
+    },
+    {
+      "category": "Innovation & R&D",
+      "videos": [
+        {
+          "description": "Emerging technology research exploring artificial intelligence, machine learning, and automation opportunities",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
+          "card": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&h=1080&fit=crop",
+          "title": "AI & Machine Learning - Emerging Technology Research",
+          "studio": "Innovation Lab"
+        },
+        {
+          "description": "Innovation showcase highlighting experimental projects and breakthrough concepts from R&D teams",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "card": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1920&h=1080&fit=crop",
+          "title": "Innovation Showcase - Breakthrough R&D Projects",
+          "studio": "Research & Development"
+        },
+        {
+          "description": "Future of work insights exploring remote collaboration, digital workspaces, and employee experience innovation",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "card": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1920&h=1080&fit=crop",
+          "title": "Future of Work - Digital Workspace Innovation",
+          "studio": "Workplace Innovation Team"
+        }
+      ]
+    },
+    {
+      "category": "Sales & Marketing",
+      "videos": [
+        {
+          "description": "Product launch campaign strategy covering messaging, positioning, and go-to-market execution",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
+          "card": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1920&h=1080&fit=crop",
+          "title": "Product Launch Strategy - Go-to-Market Execution",
+          "studio": "Marketing Strategy"
+        },
+        {
+          "description": "Digital marketing best practices including SEO, content strategy, and social media engagement tactics",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
+          "card": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop",
+          "title": "Digital Marketing Excellence - SEO & Content Strategy",
+          "studio": "Digital Marketing Team"
+        },
+        {
+          "description": "Sales enablement resources providing competitive insights, objection handling, and closing techniques",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "card": "https://images.unsplash.com/photo-1553484771-371a605b060b?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1553484771-371a605b060b?w=1920&h=1080&fit=crop",
+          "title": "Sales Enablement - Competitive Insights & Closing Strategies",
+          "studio": "Sales Operations"
+        },
+        {
+          "description": "Brand management fundamentals covering visual identity, messaging consistency, and brand equity protection",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+          "card": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1920&h=1080&fit=crop",
+          "title": "Brand Management - Identity & Equity Protection",
+          "studio": "Brand Strategy Team"
+        }
+      ]
+    },
+    {
+      "category": "Operations & Process",
+      "videos": [
+        {
+          "description": "Supply chain optimization strategies covering logistics, inventory management, and vendor relationships",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
+          "card": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop",
+          "title": "Supply Chain Optimization - Logistics & Inventory Management",
+          "studio": "Operations Excellence"
+        },
+        {
+          "description": "Business process improvement methodology using lean principles and continuous improvement frameworks",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
+          "card": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&h=1080&fit=crop",
+          "title": "Process Improvement - Lean Methodology & Continuous Improvement",
+          "studio": "Process Excellence Team"
+        },
+        {
+          "description": "Quality assurance standards and testing protocols ensuring product excellence and customer satisfaction",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
+          "card": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1920&h=1080&fit=crop",
+          "title": "Quality Assurance - Testing Standards & Excellence",
+          "studio": "Quality Management"
+        },
+        {
+          "description": "Operational efficiency metrics and KPI tracking for performance measurement and goal achievement",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
+          "card": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&h=1080&fit=crop",
+          "title": "Operational Metrics - KPI Tracking & Performance Management",
+          "studio": "Business Operations"
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "videos": [
+        {
+          "description": "Financial planning and analysis overview covering budgeting, forecasting, and variance analysis techniques",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "card": "https://images.unsplash.com/photo-1554224311-beee4f947961?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1554224311-beee4f947961?w=1920&h=1080&fit=crop",
+          "title": "Financial Planning & Analysis - Budgeting & Forecasting",
+          "studio": "FP&A Department"
+        },
+        {
+          "description": "Revenue recognition principles and accounting standards ensuring compliance with GAAP and IFRS requirements",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
+          "card": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop",
+          "title": "Revenue Recognition - GAAP & IFRS Compliance",
+          "studio": "Corporate Accounting"
+        },
+        {
+          "description": "Cost optimization strategies identifying savings opportunities and improving financial performance",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
+          "card": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1920&h=1080&fit=crop",
+          "title": "Cost Optimization - Savings Strategies & Financial Performance",
+          "studio": "Finance Operations"
+        },
+        {
+          "description": "Investment analysis and capital allocation decision-making frameworks for strategic growth initiatives",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+          "card": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop",
+          "title": "Investment Analysis - Capital Allocation Strategies",
+          "studio": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "category": "Human Resources",
+      "videos": [
+        {
+          "description": "Talent acquisition strategies covering recruiting best practices, candidate experience, and hiring efficiency",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+          "card": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1920&h=1080&fit=crop",
+          "title": "Talent Acquisition - Recruiting Excellence & Candidate Experience",
+          "studio": "Talent Acquisition Team"
+        },
+        {
+          "description": "Performance management system overview including goal setting, feedback processes, and career development",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"],
+          "card": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1920&h=1080&fit=crop",
+          "title": "Performance Management - Goals, Feedback & Development",
+          "studio": "HR Operations"
+        },
+        {
+          "description": "Employee benefits and compensation philosophy explaining total rewards packages and incentive programs",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"],
+          "card": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=1920&h=1080&fit=crop",
+          "title": "Total Rewards - Benefits & Compensation Philosophy",
+          "studio": "Compensation & Benefits"
+        },
+        {
+          "description": "Workplace wellness initiatives promoting employee health, work-life balance, and mental wellbeing",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+          "card": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1920&h=1080&fit=crop",
+          "title": "Employee Wellness - Health, Balance & Mental Wellbeing",
+          "studio": "Employee Experience"
+        },
+        {
+          "description": "Succession planning and leadership pipeline development ensuring organizational continuity and growth",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+          "card": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1920&h=1080&fit=crop",
+          "title": "Succession Planning - Leadership Pipeline Development",
+          "studio": "Leadership Development"
+        }
+      ]
+    },
+    {
+      "category": "IT & Infrastructure",
+      "videos": [
+        {
+          "description": "Network security architecture covering firewalls, intrusion detection, and threat prevention systems",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"],
+          "card": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&h=1080&fit=crop",
+          "title": "Network Security - Architecture & Threat Prevention",
+          "studio": "IT Security"
+        },
+        {
+          "description": "Disaster recovery and business continuity planning ensuring operational resilience and data protection",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
+          "card": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&h=1080&fit=crop",
+          "title": "Disaster Recovery - Business Continuity & Data Protection",
+          "studio": "IT Operations"
+        },
+        {
+          "description": "Cloud migration strategy covering assessment, planning, and execution of infrastructure modernization",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"],
+          "card": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1920&h=1080&fit=crop",
+          "title": "Cloud Migration - Infrastructure Modernization Strategy",
+          "studio": "Cloud Infrastructure"
+        },
+        {
+          "description": "IT service management framework implementing ITIL best practices for service delivery excellence",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"],
+          "card": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1920&h=1080&fit=crop",
+          "title": "IT Service Management - ITIL Best Practices",
+          "studio": "Service Delivery"
+        }
+      ]
+    },
+    {
+      "category": "Sustainability & CSR",
+      "videos": [
+        {
+          "description": "Environmental sustainability initiatives covering carbon reduction, renewable energy, and green operations",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"],
+          "card": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=1920&h=1080&fit=crop",
+          "title": "Environmental Sustainability - Carbon Reduction & Green Operations",
+          "studio": "Sustainability Office"
+        },
+        {
+          "description": "Corporate social responsibility programs highlighting community engagement and positive social impact",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"],
+          "card": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1920&h=1080&fit=crop",
+          "title": "Corporate Social Responsibility - Community Impact Programs",
+          "studio": "CSR Department"
+        },
+        {
+          "description": "ESG reporting standards and frameworks for environmental, social, and governance transparency",
+          "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"],
+          "card": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=400&h=225&fit=crop",
+          "background": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1920&h=1080&fit=crop",
+          "title": "ESG Reporting - Environmental, Social & Governance Standards",
+          "studio": "Corporate Governance"
         }
       ]
     }
